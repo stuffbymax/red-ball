@@ -7,7 +7,7 @@ window.preload = function () {
 
   p5Inst._predefinedSpriteAnimations = {};
   p5Inst._pauseSpriteAnimationsByDefault = false;
-  var animationListJSON = {"orderedKeys":["657f6dd0-371f-4f45-a914-debfefb945d7"],"propsByKey":{"657f6dd0-371f-4f45-a914-debfefb945d7":{"name":"red_ball","categories":["board_games_and_cards"],"frameCount":1,"frameSize":{"x":64,"y":64},"looping":true,"frameDelay":2,"jsonLastModified":"2021-01-05 18:43:21 UTC","pngLastModified":"2021-01-05 18:43:31 UTC","version":"V1PZOxYLJE1j5GPz6xD7YYg9HFTHB06z","sourceUrl":"assets/api/v1/animation-library/gamelab/V1PZOxYLJE1j5GPz6xD7YYg9HFTHB06z/category_board_games_and_cards/dieRed1.png","sourceSize":{"x":64,"y":64},"loadedFromSource":true,"saved":true,"rootRelativePath":"assets/api/v1/animation-library/gamelab/V1PZOxYLJE1j5GPz6xD7YYg9HFTHB06z/category_board_games_and_cards/dieRed1.png"}}};
+  var animationListJSON = {"orderedKeys":["657f6dd0-371f-4f45-a914-debfefb945d7"],"propsByKey":{"657f6dd0-371f-4f45-a914-debfefb945d7":{"name":"red_ball","categories":["board_games_and_cards"],"frameCount":1,"frameSize":{"x":64,"y":64},"looping":true,"frameDelay":12,"jsonLastModified":"2021-01-05 18:43:21 UTC","pngLastModified":"2021-01-05 18:43:31 UTC","version":"RE_l5YYOr0C7UfiSQ23VeuLZTSzpIzhV","sourceUrl":null,"sourceSize":{"x":64,"y":64},"loadedFromSource":true,"saved":true,"rootRelativePath":"assets/657f6dd0-371f-4f45-a914-debfefb945d7.png"}}};
   var orderedKeys = animationListJSON.orderedKeys;
   var allAnimationsSingleFrame = false;
   orderedKeys.forEach(function (key) {
